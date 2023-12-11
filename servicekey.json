@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "koplak-testing-api",
+  "private_key_id": "c51663c395fd568fb85282ab7db09b2e611d46f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClImAyg2ZDwxN0\nAQfs71E6OT1DHUdCfd7h9Hii8INy392FxGi0wH1NtpXlQokbnaP0VNYVcMcN1Ns6\nTX805x3RiVW7rFnm/epO4n8YoFTVovcHFZj623TGohVumSLVnzUO4svD4tVmqIsi\npkqvevSez4TPP/wbLvNJTnA1OPcv51WY7RRkPK+6+HHxfuCbV1bRXTG6M+wsnnZt\nEdMkFdqvgDDtSBnb7v7wFokSNgCL64XmUUed4LG9OuAlEdu3rNXoliJwsSmqSIAf\ncp+Bg/gB0zGf6eCe0Vwf35o3nZzp5UaCE4lzKDfU7Lj5eCQv+KoQsQI/SR/2QG+s\nMxExdYipAgMBAAECggEAR8M7G+iXig4eB5UlHRXZblyOn3p7S82IjRhhTqoH7eWU\njrvOpvJZ4epdlM6H5/znUdiGWrXygzPD+7/O7q4besJchBz/ys8AwrxScGDIzTiv\ncqAzpZy2UFYCy1f4V+6Cr8/mrl+GzsCjCnFK1pyv7s4PEMPlKukJ6AsS30Y8wc9q\n0sGJ1HrdjUPJUmwaB8jc8vECjGzkltDcNTBcx6QK0XwSpqXRFMZAVm5HlF88KOk6\nZtfFh+M4emTASuYO38h3Ep19r7acxkDgMSOnVEikL4BC10PRkrfYzdyayk4K3UEO\nuOWsNGY/sotnLoB5Yg37ANUvOU+tfXjYdyOzV8MvYwKBgQDekQWajY2MGhxTiOV0\nycIKdMV2TTH1SqqfssgyKJB+VaPRnLdZdYh2LReNxFIU0yr4lntZDGDCOtMbMHbP\nGI6hwjgUNpmJ0Id46fR/gDstPRLKhqSSRRuibB9pYZMN9+pN5QkozuuXKYQTGrbp\nsRVRPd1HmUGJb/O9Mhq80OOK0wKBgQC98MA0NU0Krw3mwhzvE2mGsxKMTJPKePh0\nR4+XiRM6cPZoFxDL9Du2JL793oAshznXaKbS4cwVcd0/r0A8JnX7ta5hKbeDi/Oo\nL46daiQlUq/Hm/Dvmw7IyHz/47NwdSycZlUTjyHKkBUfr0DLu7lkYnMnri2/FHFB\nIFHhGmn5EwKBgF7clvPZ03PciSg9l/cgK1lDjgovOtTevzyT+eoPCg8et1UXI7q4\ncrJT488j1wxTOOR9VxOMSA1g/yt+i5UXVWuymS5cWzK3M5aguPpDEHXmqwSxQKGr\nXOzsgrLqyL/SZAZRUYcYMqfaJRXzc/TE6l4XLSJgOuO2WL/SBD1oFyPLAoGAf/QQ\nNtt1Q+47ail3/mJQY2p840CvCuXFUefnRokUB/mTNPnc2dh05TYJ59Gc/OI3x/H6\n9/MeXY/wIPe5SQwLzP5OM6w7sQV1peYrp8WaBf6W5dwaSf9lzUKqWmOVPPviipWx\nWFTCyceYQ1j3SIf00zgzJRcEQEXQKbRRFFiL7TsCgYB3eg9c9f3aE7iUFV9Y3w78\nEwcAdp7IaOQdw7rZ7Pud/C4wqDbHRrZpviOjqo0lLxmPcx3cqDuy7S3YOClfyUsP\nQydOK+TNfzFOGhr+NycO3+s8t90t0fq2pI3SUJ3emdV4oIAHUh1E93I/dexb7Bjn\nKoREFc9qZCc4L3ru0RQS1Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account-koplak@koplak-testing-api.iam.gserviceaccount.com",
+  "client_id": "117401239627385292927",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account-koplak%40koplak-testing-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
